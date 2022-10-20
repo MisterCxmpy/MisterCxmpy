@@ -2,7 +2,7 @@
 
 **Hi there, I'm Cosgun Hussein**
 
-This is my online portal showcasing all my work!
+This is my online portal showcasing all of my work!
 
 Currently I am working on:
 - Online article/blog sharing application ☕
