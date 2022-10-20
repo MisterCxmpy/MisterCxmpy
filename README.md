@@ -12,7 +12,7 @@ About me:
 - Computer nerd 🤓
 - Trying to learn everything possible 📚
 
-**Socials:**
+**Socials**
 - 
 <p align="left">  
 <a href="https://www.linkedin.com/in/cosgun-hussein-618b71244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asd" height="30" width="40" 
