@@ -5,12 +5,12 @@
 This is my online portal showcasing all my work!
 
 Currently I am working on:
-- Online article/blog sharing application
+- Online article/blog sharing application ☕
 
 About me:
-- Keyboard/Typing enthusiast
-- Computer nerd
-- Trying to learn everything possible
+- Keyboard/Typing enthusiast ⌨️
+- Computer nerd 🤓
+- Trying to learn everything possible 📚
 
 **Socials:**
 - 
