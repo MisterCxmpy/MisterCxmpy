@@ -1,4 +1,4 @@
-<h1 style="color:blue">Welcome to my GitHub!</h1>.
+# Welcome to my GitHub!
 
 **Hi there, I'm Cosgun Hussein**
 
