@@ -5,7 +5,7 @@
 This is my online portal showcasing all of my work!
 
 Currently I am working on:
-- Online article/blog sharing application ☕
+- Developing my Ruby knowledge
 
 About me:
 - Keyboard/Typing enthusiast ⌨️
