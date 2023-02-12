@@ -4,9 +4,6 @@
 
 This is my online portal showcasing all of my work!
 
-Currently I am working on:
-- Developing my Ruby knowledge
-
 About me:
 - Keyboard/Typing enthusiast ⌨️
 - Computer nerd 🤓
