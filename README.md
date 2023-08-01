@@ -2,7 +2,7 @@
 <h1 align="center">Hello there, it is I, the legendary god programmer.</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/COop4ngqxSAAAAAC/alienpls3.gif" alt="Whimsical Coder">
+  <img src="https://media.tenor.com/_HigPGKNH2AAAAAi/alienpls3-alienpls.gif" alt="Whimsical Coder">
 </p>
 
 **About**
