@@ -1,13 +1,17 @@
-# Welcome to my GitHub!
 
-**Hi there, I'm Cosgun Hussein**
+<h1 align="center">Hello there, it is I, the legendary god programmer.</h1>
 
-This is my online portal showcasing all of my work!
+<p align="center">
+  <img src="https://media.tenor.com/COop4ngqxSAAAAAC/alienpls3.gif" alt="Whimsical Coder">
+</p>
 
-About me:
-- Keyboard/Typing enthusiast ⌨️
-- Computer nerd 🤓
-- Trying to learn everything possible 📚
+**About**
+- 
+<div align="left">
+	<p>Keyboard/Typing enthusiast ⌨️</p>
+	<p>Computer nerd 🤓</p>
+	<p> Trying to learn everything possible 📚</p>
+</div>
 
 **Socials**
 - 
