@@ -54,12 +54,6 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=mistercxmpy&theme=tokyonight-duo&hide_border=true&&date_format=j%20M%5B%20Y%5D" />
 </div>
 
-### Socials
-<p align="center">  
-<a href="https://www.linkedin.com/in/cosgun-hussein-618b71244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asd" height="30" width="40" 
-/></a> 
-</p>
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/mistercxmpy" target="_blank">
